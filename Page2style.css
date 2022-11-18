@@ -1,0 +1,103 @@
+/* codigo de estilo para la página 2 */
+/*. ===class: #Title*/
+/*
+#Title {
+  color: red;
+}
+*/
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  color: black;
+  background-color: #dfdfe5;
+  background: -webkit-linear-gradient(orange, pink);
+  background: -moz-linear-gradient(orange, pink);
+  background: -moz-border-right-colors(orange, pink);
+}
+
+
+nav {
+  margin:0px 10px;
+  font-family: system-ui, sans-serif;
+  color: black;
+  background-color: yellowgreen;
+}
+
+h1{
+  font-weight: bold;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 4rem;
+  color: #FF6633;
+  /*text-align:center;*/
+}
+
+#Title{
+  color: #FF6633;
+  text-align: right;
+}
+
+h2{
+  font-weight: normal;
+  font-size: 2rem;
+  color: #99CCFF;
+}
+
+h3{
+  font-weight: normla;
+  font-size: 2rem;
+  color: #CCFF99;
+}
+
+p {
+  padding: 0px 30px;
+  color: #666666;
+}
+
+h3 .comidarigth{
+  color: #FF6633;
+  text-align: right;
+}
+
+img {
+  width: 95%;
+  border: 10px solid#993333;
+  /*margin: 10px;*/
+}
+.color {
+  box color:#336699;
+}
+
+/*p::before {
+  content: "jeje";
+}
+
+p:hover::before {
+  content: "💅";
+}
+*/
+/*
+section [
+  border: 2px solid red;
+  margin: 30px 0px;
+]
+*/
+/*
+article {
+  border: 2px solid blue<
+}
+*/
+
+/* Medidas Css*/
+/* [Numero] px */
+/* porcentajes */
+
+/*
+padding: 30px 100px 20px 0px;
+
+padding verboso
+  padding-top> 30px;
+  padding-bottom: 20px;
+  padding-left: 0px;
+  padding-rigth: 100px;
+
+*/
